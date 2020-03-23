@@ -1,6 +1,6 @@
 name: "MyLabJournal"
 navbar:
-  title: "MyLabJournal"
+  title: "Premier pas avec R"
   left:
     - text: "Home"
       href: index.html
